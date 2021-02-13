@@ -43,7 +43,7 @@ def main():
             if user == 'y':
                 continue
             else:
-                exit()
+                break
 if __name__ == "__main__":
     main()
     
